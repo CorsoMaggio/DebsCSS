@@ -1,0 +1,16 @@
+  span,
+  h3 {
+      color: #12b17c;
+  }
+
+  p {
+      color: red;
+  }
+
+  .testo-verde {
+      color: green;
+  }
+
+  #header {
+      color: blue;
+  }
